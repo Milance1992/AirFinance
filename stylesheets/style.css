@@ -1,0 +1,16 @@
+/* line 3, ../sass/style.scss */
+form {
+  margin-top: 100px;
+}
+
+/* line 7, ../sass/style.scss */
+span {
+  color: red;
+  font-size: 14px;
+  font-style: italic;
+}
+
+/* line 13, ../sass/style.scss */
+.error {
+  visibility: hidden;
+}
